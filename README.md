@@ -1,7 +1,7 @@
 # HGGN
 
  HGGN, a specialized deep learning framework designed for predicting microRNA-mediated drug susceptibility. HGGN employs a miRNA-drug resistance heterogeneous network that integrates drug SMILES similarity and miRNA sequence similarity as inputs. It employs a dual-channel combination of Adamic-Adar and GIPKS to extract potential signals characterizing association relationships within the data. Additionally, it employs GAT to adaptively capture global network features and offer interpretability to the prediction outcomes. 
-![workflow](./Figure 1.jpg)
+![workflow](./Figure1.jpg)
 
 ## Environment
 
